@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="hello_di/src"/>
+	<classpathentry kind="src" path="spring_di_annotation/src"/>
+	<classpathentry kind="src" path="spring_di_xml/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
